@@ -1,0 +1,9 @@
+{
+  "name": "NĀDASAKHI – Smart Accessibility Platform",
+  "description": "An AI-powered accessibility platform connecting individuals with hearing loss through environmental sound awareness and two-way sign-language communication.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
